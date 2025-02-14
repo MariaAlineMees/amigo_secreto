@@ -16,4 +16,7 @@ Esse projeto foi desenvolvido durante no curso de programação Alura, que permi
  ## Autora
  **Maria Aline Mees**
  https://github.com/MariaAlineMees/amigo_secreto
- 
+
+
+![Jogo Funcionando]([URL_da_imagem](https://github.com/MariaAlineMees/amigo_secreto/blob/main/challenge-amigo-secreto_pt-main/Imagem%20Amigo%20Secreto.jpg?raw=true))
+
